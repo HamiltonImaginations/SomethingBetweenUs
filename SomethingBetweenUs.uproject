@@ -25,10 +25,6 @@
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/2f6439c2f9584f49809d9b13b16c2ba4"
 		},
 		{
-			"Name": "HoudiniEngine",
-			"Enabled": true
-		},
-		{
 			"Name": "GPULightmass",
 			"Enabled": true
 		},
@@ -37,9 +33,8 @@
 			"Enabled": true
 		},
 		{
-			"Name": "VictoryBPLibrary",
-			"Enabled": true,
-			"MarketplaceURL": "http://www.ue4code.com"
+			"Name": "HoudiniEngine",
+			"Enabled": true
 		}
 	]
 }
